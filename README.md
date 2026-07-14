@@ -69,14 +69,18 @@ Os principais assuntos abordados são:
 ├── LICENSE
 │
 ├── docs
-│   ├── Resumo.md
-│   ├── Glossario.md
-│   ├── PlanoEstudos.md
-│   ├── Perguntas.md
-│   ├── Respostas.md
-│   ├── Quiz.md
-│   ├── MapaMental.md
-│   └── Prompts.md
+│   ├── 01-VisaoGeral.md
+│   ├── 02-Resumo.md
+│   ├── 03-Glossario.md
+│   ├── 04-ComparacaoFontes.md
+│   ├── 05-PlanoEstudos.md
+│   ├── 06-Perguntas.md
+│   ├── 07-Respostas.md
+│   ├── 08-ExplicacaoSimples.md
+│   ├── 09-Quiz.md
+│   ├── 10-MapaMental.md
+│   ├── 11-ResumoExecutivo.md
+│   └── 12-Prompts.md
 │
 ├── images
 │   ├── 01-visao-geral.png
