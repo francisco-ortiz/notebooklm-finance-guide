@@ -1,5 +1,11 @@
 # Biblioteca de Prompts
 
+## Primeira interação
+
+> Explique rapidamente quais assuntos aparecem em todas as fontes.
+
+---
+
 ## Resumo
 
 > Crie um resumo estruturado utilizando apenas as informações presentes nas fontes.
@@ -8,11 +14,11 @@
 
 ## Glossário
 
-> Liste todos os conceitos encontrados nas fontes e organize em formato de tabela.
+> Liste todos os termos financeiros encontrados nas fontes.
 
 ---
 
-## Comparação
+## Comparação entre Fontes
 
 > Compare as fontes destacando diferenças, semelhanças e principais objetivos.
 
@@ -24,7 +30,19 @@
 
 ---
 
-## Linguagem Simples
+## Perguntas Estratégicas
+
+> Crie 10 perguntas para revisar o conteúdo.
+
+---
+
+## Autoavaliação
+
+> Agora responda cada pergunta explicando em linguagem simples.
+
+---
+
+## Explicação para Iniciantes
 
 > Explique os conceitos para um estudante iniciante utilizando exemplos do cotidiano.
 
@@ -36,24 +54,12 @@
 
 ---
 
-## Autoavaliação
-
-> Gere cinco perguntas abertas para revisão do conteúdo.
-
----
-
 ## Mapa Mental
 
 > Organize os principais conceitos em formato de mapa mental hierárquico.
 
 ---
 
-## Revisão Rápida
+## Resumo Executivo
 
-> Resuma o conteúdo em dez tópicos para revisão antes de uma prova.
-
----
-
-## Comparação entre Fontes
-
-> Informe quais assuntos aparecem em todas as fontes e quais aparecem apenas em uma delas.
+> Crie um resumo executivo contendo no máximo 300 palavras.
