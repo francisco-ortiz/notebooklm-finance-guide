@@ -65,7 +65,7 @@ Os principais assuntos abordados são:
 ```text
 📁 notebooklm-finance-guide
 │
-├── docs
+├── 📁 docs
 │   ├── 01-VisaoGeral.md
 │   ├── 02-Resumo.md
 │   ├── 03-Glossario.md
@@ -79,7 +79,7 @@ Os principais assuntos abordados são:
 │   ├── 11-ResumoExecutivo.md
 │   └── 12-Prompts.md
 │
-├── images
+├── 📁 images
 │   ├── 01-visao-geral.png
 │   ├── 02-resumo.png
 │   ├── 03-glossario.png
@@ -92,13 +92,13 @@ Os principais assuntos abordados são:
 │   ├── 10-mapa-mental.png
 │   └── 11-resumo-executivo.png
 │
-├── mindmap
+├── 📁 mindmap
 │   └── NotebookLM.pdf
 │
-├── presentation
+├── 📁 presentation
 │   └── NotebookLM.pdf
 │
-└── references
+└── 📁 references
 │   └── Fontes.md
 │
 ├── LICENSE
