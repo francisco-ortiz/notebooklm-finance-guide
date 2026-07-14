@@ -101,8 +101,8 @@ Os principais assuntos abordados são:
 └── references
 │   └── Fontes.md
 │
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ---
